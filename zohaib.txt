@@ -1,7 +1,0 @@
-this is my new text
-Author - Zohaib
-i am in class 10
-my fvt subject is buisness
- a=2 
- b=3
- 
