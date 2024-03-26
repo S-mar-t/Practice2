@@ -4,4 +4,5 @@ i am in class 10
 my fvt subject is buisness
  a=2 
  b=3
- 
+ sum =a-b
+this is sum of two integers
